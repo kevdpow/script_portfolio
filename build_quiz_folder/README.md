@@ -28,11 +28,7 @@ This Python 3 script builds a ready-to-quiz folder for Geeks Who Drink Quizmaste
 ## Run
 1. Open Command Prompt / Terminal
 2. <code>cd path/to/script</code>
-
 3a. Windows: 
-
 <code>py -3 build_quiz_folder.py C:\path\to\quiz.zip</code>
-
 3b. UNIX: 
-
 <code>python3 build_quiz_folder.py path/to/quiz.zip</code>

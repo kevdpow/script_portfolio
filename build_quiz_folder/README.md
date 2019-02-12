@@ -16,9 +16,8 @@ This Python 3 script builds a ready-to-quiz folder for Geeks Who Drink Quizmaste
 
 3. ZIP folder as distributed by Geeks Who Drink on OBYQM.
 
-## Directions
+## Setup
 
-### Add variables
 **Be sure to add an 'r' in front of Windows paths!**
 
 1. Open build_quiz_folder.py
@@ -26,7 +25,7 @@ This Python 3 script builds a ready-to-quiz folder for Geeks Who Drink Quizmaste
 3. Add path to your master score sheet at line 12.
 4. Save the script.
 
-### Run Script
+## Run
 1. Open Command Prompt / Terminal
 2. <code>cd path/to/script</code>
 

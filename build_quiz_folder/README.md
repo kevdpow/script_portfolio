@@ -19,20 +19,21 @@ This Python 3 script builds a ready-to-quiz folder for Geeks Who Drink Quizmaste
 ## Directions
 
 ### Add variables
+**Be sure to add an 'r' in front of Windows paths!**
+
 1. Open build_quiz_folder.py
 2. Add path to your audio clips folder on line 11. 
 3. Add path to your master score sheet at line 12.
-    - **If you're a Windows user, be sure to add an 'r' in front of each path!**
 4. Save the script.
 
 ### Run Script
-4. Open Command Prompt / Terminal
-5. <code>cd path/to/script</code>
+1. Open Command Prompt / Terminal
+2. <code>cd path/to/script</code>
 
-6a. Windows: 
+3a. Windows: 
 
 <code>py -3 build_quiz_folder.py C:\path\to\quiz.zip</code>
 
-6b. UNIX: 
+4b. UNIX: 
 
 <code>python3 build_quiz_folder.py path/to/quiz.zip</code>
